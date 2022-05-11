@@ -4,4 +4,12 @@
 .app__section {
   display: flex;
   padding: 30px;
+  flex-direction: row;
 }
+
+@media (max-width: 800px) {
+  .app__section {
+    flex-direction: column;
+  }
+}
+

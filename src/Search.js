@@ -6,7 +6,7 @@ import "react-date-range/dist/theme/default.css"; // theme css file
 import { DateRangePicker } from "react-date-range";
 import { Button } from "@material-ui/core";
 import PeopleIcon from "@material-ui/icons/People";
-import { useHistory } from "react-router-dom";
+import { useHistory } from "react-router-dom"; 
 
 function Search() {
   const history = useHistory();
