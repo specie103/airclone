@@ -44,3 +44,9 @@
 .banner__info > h5 {
   margin-top: 10px;
 }
+
+@media (max-width : 800px) {
+  .banner{
+    display: none;
+  }
+}

@@ -18,7 +18,7 @@ function Header() {
       </Link>
 
       <div className="header__center">
-        <input type="text" />
+        <input type="text" placeholder="Search here"/>
         <SearchIcon />
       </div>
       <div className="header__right">

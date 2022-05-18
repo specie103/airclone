@@ -26,7 +26,7 @@
   border-radius: 999px;
 }
 
-.header__center > input {
+.header__center>input {
   border: none;
   width: 250px;
 }
@@ -39,7 +39,33 @@
   margin-right: 80px;
 }
 
-.header__center > input {
+.header__center>input {
   padding: 10px;
   outline-width: 0;
+}
+
+@media (max-width : 800px) {
+  .header {
+    display: block;
+  }
+
+  .header__icon {
+    display: none;
+  }
+
+  .header__center {
+    display: block;
+    max-width: 90%;
+    align-items: end;
+    padding-top: 7px;
+    height: 30px;
+    border: 1px solid lightgray;
+    border-radius: 999px;
+    margin: auto;
+    margin-top: 5px;
+  }
+
+  .header__right {
+    display: none;
+  }
 }

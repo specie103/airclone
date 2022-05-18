@@ -1,6 +1,6 @@
 import React from "react";
 import "./SearchResult.css";
-import FavoriteBorderIcon from "@material-ui/icons/FavoriteBorder";
+import FavoriteBorderOutlinedIcon from "@material-ui/icons/FavoriteBorder";
 import StarIcon from "@material-ui/icons/Star";
 
 function SearchResult({
@@ -15,7 +15,7 @@ function SearchResult({
   return (
     <div className="searchResult">
       <img src={img} alt="" />
-      <FavoriteBorderIcon className="searchResult__heart" />
+      <FavoriteBorderOutlinedIcon className="searchResult__heart" />
       <div className="searchResult__info">
         <div className="searchResult__infoTop">
           <p>{location}</p>

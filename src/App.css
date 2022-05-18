@@ -1,5 +1,4 @@
-.app {
-}
+.app {}
 
 .app__section {
   display: flex;
@@ -12,4 +11,3 @@
     flex-direction: column;
   }
 }
-
