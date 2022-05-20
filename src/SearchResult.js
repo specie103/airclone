@@ -2,6 +2,9 @@ import React from "react";
 import "./SearchResult.css";
 import FavoriteBorderOutlinedIcon from "@material-ui/icons/FavoriteBorder";
 import StarIcon from "@material-ui/icons/Star";
+// import Rating from '@mui/material/Rating';
+// import Typography from '@mui/material/Typography';
+
 
 function SearchResult({
   img,
