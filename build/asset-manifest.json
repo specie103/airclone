@@ -1,25 +1,15 @@
 {
-  "files": {
-    "main.css": "/static/css/main.2281d167.chunk.css",
-    "main.js": "/static/js/main.faabd4ce.chunk.js",
-    "main.js.map": "/static/js/main.faabd4ce.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7b3982eb.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7b3982eb.js.map",
-    "static/css/2.a1840750.chunk.css": "/static/css/2.a1840750.chunk.css",
-    "static/js/2.7440f58a.chunk.js": "/static/js/2.7440f58a.chunk.js",
-    "static/js/2.7440f58a.chunk.js.map": "/static/js/2.7440f58a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a952b8c68542e5c3941b666c7a422f61.js": "/precache-manifest.a952b8c68542e5c3941b666c7a422f61.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.a1840750.chunk.css.map": "/static/css/2.a1840750.chunk.css.map",
-    "static/css/main.2281d167.chunk.css.map": "/static/css/main.2281d167.chunk.css.map",
-    "static/js/2.7440f58a.chunk.js.LICENSE.txt": "/static/js/2.7440f58a.chunk.js.LICENSE.txt"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.7b3982eb.js",
-    "static/css/2.a1840750.chunk.css",
-    "static/js/2.7440f58a.chunk.js",
-    "static/css/main.2281d167.chunk.css",
-    "static/js/main.faabd4ce.chunk.js"
-  ]
+  "main.css": "/static/css/main.3408f777.chunk.css",
+  "main.js": "/static/js/main.15d2d678.chunk.js",
+  "main.js.map": "/static/js/main.15d2d678.chunk.js.map",
+  "static/css/1.3a920a15.chunk.css": "/static/css/1.3a920a15.chunk.css",
+  "static/js/1.54e3e96e.chunk.js": "/static/js/1.54e3e96e.chunk.js",
+  "static/js/1.54e3e96e.chunk.js.map": "/static/js/1.54e3e96e.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.3408f777.chunk.css.map": "/static/css/main.3408f777.chunk.css.map",
+  "static/css/1.3a920a15.chunk.css.map": "/static/css/1.3a920a15.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.52862755d5ff613637cf45024251cad6.js": "/precache-manifest.52862755d5ff613637cf45024251cad6.js",
+  "service-worker.js": "/service-worker.js"
 }

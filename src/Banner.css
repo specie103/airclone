@@ -4,6 +4,9 @@
   height: 50vh;
   position: relative;
 }
+h5{
+  text-align: justify;
+}
 
 .banner__search {
   top: 0;
@@ -13,11 +16,12 @@
 
 .banner__info {
   background-color: black;
-  padding-top: 25vh;
+  /* padding-top: 25vh;
   padding-left: 50px;
   padding-right: 50px;
-  padding-bottom: 40px;
-  width: 300px;
+  padding-bottom: 40px; */
+  width: 350px;
+  height: 45vh;
   color: white;
 }
 
@@ -34,14 +38,18 @@
   text-transform: inherit;
   margin-top: 20px;
   font-weight: 600;
+  margin-left: 25%;
 }
-
+/* .button_div{
+  width: 90%;
+  margin: auto;
+} */
 .banner__info > button:hover {
-  background-color: white;
+  background-color: white !important;
   color: #ff7779;
 }
 
-.banner__info > h5 {
+.banner__info >  {
   margin-top: 10px;
 }
 
@@ -50,3 +58,4 @@
     display: none;
   }
 }
+
