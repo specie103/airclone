@@ -7,7 +7,7 @@ import { Avatar } from "@material-ui/core";
 import { Link } from "react-router-dom";
 
 function Header() {
-  return (
+  return ( 
     <div className="header">
       <Link to="/">
         <img

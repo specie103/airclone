@@ -1,9 +1,9 @@
-.app {}
 
 .app__section {
   display: flex;
   padding: 30px;
   flex-direction: row;
+  width: fit-content;
 }
 
 @media (max-width: 800px) {

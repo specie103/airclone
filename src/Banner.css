@@ -16,10 +16,6 @@ h5{
 
 .banner__info {
   background-color: black;
-  /* padding-top: 25vh;
-  padding-left: 50px;
-  padding-right: 50px;
-  padding-bottom: 40px; */
   width: 350px;
   height: 45vh;
   color: white;
@@ -30,6 +26,7 @@ h5{
   font-weight: 900 !important;
   text-transform: inherit !important;
   color: #ff7779 !important;
+  
 }
 
 .banner__info > button {
@@ -40,10 +37,8 @@ h5{
   font-weight: 600;
   margin-left: 25%;
 }
-/* .button_div{
-  width: 90%;
-  margin: auto;
-} */
+
+
 .banner__info > button:hover {
   background-color: white !important;
   color: #ff7779;
@@ -54,8 +49,17 @@ h5{
 }
 
 @media (max-width : 800px) {
-  .banner{
-    display: none;
+  .banner {
+    height: 50vh;
+ 
   }
+  .banner__search{
+    display: none;
+    position: static;
+  }
+  .banner__info {
+    height: 50vh;
+  }
+ 
 }
 
